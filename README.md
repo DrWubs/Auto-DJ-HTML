@@ -8,17 +8,17 @@ Visit my Google Drive for index.html https://drive.google.com/#folders/0B_-GwA4W
 ============
 
 Coded most HTML for interface for the site including:<br/>
-<list>
-<ul>Script description</ul><br/>
-<ul>Disclaimer</ul><br/>
-<ul>Notice</ul><br/>
-<ul>Github linked</ul><br/>
-<ul>Features Listed</ul><br/>
-<ul>How to install scripte</ul><br/>
-<ul>How to use script</ul><br/>
-<ul>Script not working section was codeded but is needed for error message fixes</ul><br/>
-<ul>Images added</ul><br/>
-</list>
+
+*Script description<br/>
+*Disclaimer<br/>
+*Notice<br/>
+*Github linked<br/>
+*Features Listed<br/>
+*How to install scripte<br/>
+*How to use script<br/>
+*Script not working section was codeded but is needed for error message fixes<br/>
+*Images added<br/>
+
 11/4/13
 ============
 
