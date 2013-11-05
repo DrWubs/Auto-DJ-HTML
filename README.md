@@ -22,8 +22,8 @@ Coded most HTML for interface for the site including:<br/>
 11/4/13
 ============
 
-Started CSS coding including:<br/>
-Heading backgrounds<br/>
-Body background<br/>
-Font edited<br/>
-Font color edited<br/>
+* Started CSS coding including:<br/>
+* Heading backgrounds<br/>
+* Body background<br/>
+* Font edited<br/>
+* Font color edited<br/>
