@@ -1,7 +1,7 @@
 Auto-DJ-HTML
 ===========
 
-The site will continully be updated, therefore links will be broken until updates for site slow down. Thank You. [Code will continue to update as well] 
+The site will continully be updated, therefore links will be broken until updates for the site slow down. Code will be updated on Github after the offical site is hosted.  
 Visit my Google Drive for index.html https://drive.google.com/#folders/0B_-GwA4W8j0Ua2hrQVpNRUtXY0E
 
 11/3/13 = Official Site Launch
