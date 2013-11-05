@@ -7,22 +7,22 @@ Visit my Google Drive for index.html https://drive.google.com/#folders/0B_-GwA4W
 11/3/13 = Official Site Launch
 ============
 
-Coded most HTML for interface for the site including:
-Script description
-Disclaimer
-Notice
-Github linked
-Features Listed
-How to install scripte
-How to use script
-Script not working section was codeded but is needed for error message fixes
-Images added
+Coded most HTML for interface for the site including:<br/>
+Script description<br/>
+Disclaimer<br/>
+Notice<br/>
+Github linked<br/>
+Features Listed<br/>
+How to install scripte<br/>
+How to use script<br/>
+Script not working section was codeded but is needed for error message fixes<br/>
+Images added<br/>
 
 11/4/13
 ============
 
-Started CSS coding including:
-Heading backgrounds
-Body background
-Font edited
-Font color edited
+Started CSS coding including:<br/>
+Heading backgrounds<br/>
+Body background<br/>
+Font edited<br/>
+Font color edited<br/>
