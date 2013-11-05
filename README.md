@@ -19,7 +19,7 @@ Coded most HTML for interface for the site including:<br/>
 * Script not working section was codeded but is needed for error message fixes<br/>
 * Images added<br/>
 
-11/4/13
+11/4/13 = CSS
 ============
 
 * Started CSS coding including:<br/>
