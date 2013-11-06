@@ -31,6 +31,6 @@ Coded most HTML for interface for the site including:<br/>
 11/5/13 = Site Hosted
 ============
 
-* Site is now hosted and public to public
+* Site is now hosted and open to public
 
 (Link at the top)
