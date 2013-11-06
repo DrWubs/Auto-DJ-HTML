@@ -1,8 +1,8 @@
 Auto-DJ-HTML
 ===========
 
-The site will continully be updated, therefore links will be broken until updates for the site slow down. Code will be updated on Github after the offical site is hosted.  
-Visit my Google Drive for index.html https://drive.google.com/#folders/0B_-GwA4W8j0Ua2hrQVpNRUtXY0E
+This is a short HTML coding project for a tutorial site on how to get my Auto DJ. Auto Awesomeer also has a tutorial site both being hosted for the public.
+Link - 
 
 11/3/13 = Official Site Launch
 ============
@@ -27,3 +27,10 @@ Coded most HTML for interface for the site including:<br/>
 * Body background<br/>
 * Font edited<br/>
 * Font color edited<br/>
+
+11/5/13 = Site Hosted
+============
+
+* Site is now hosted and public to public
+
+(Link at the top)
