@@ -1,7 +1,7 @@
 Auto-DJ-HTML
 ===========
 
-This is a short HTML coding project for a tutorial site on how to get my Auto DJ. Auto Awesomeer also has a tutorial site both being hosted for the public.
+This is a short HTML coding project for a tutorial site on how to get my Auto DJ. Auto Awesomeer also has a tutorial site both being hosted for the public.<br />
 Link - 
 
 11/3/13 = Official Site Launch
